@@ -1,1 +1,2 @@
-start with : make_run_dev
+start with : 
+$ make run_dev
